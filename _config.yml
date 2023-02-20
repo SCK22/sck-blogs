@@ -4,7 +4,11 @@ description: Blogs on data science, machine learning, visualization, MLOps
 url: https://sck22.github.io # the base hostname & protocol for your site
 baseurl: "/sck-blogs" # the subpath of your site, e.g. /blog
 github_username: sck22
-permalink: /:collection/:year-:month-:day-:title:output_ext
+
+blog_name: SCK's Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: a simple whitespace theme for academics
+permalink: /blog/:year/:title/
+
 show_excerpts: true
 # code highlighter theme
 highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
