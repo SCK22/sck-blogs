@@ -6,4 +6,4 @@ description: Link to Genetic Algorithm blog
 redirect: https://medium.com/@chaithanyakumars/genetic-algorithm-in-python-from-scratch-e1bcc8f57880
 ---
 
-Redirecting to another page.
+Redirecting to [Genetic Algorithm blog](https://medium.com/@chaithanyakumars/genetic-algorithm-in-python-from-scratch-e1bcc8f57880)
