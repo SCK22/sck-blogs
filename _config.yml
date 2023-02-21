@@ -2,7 +2,7 @@ title: Chaithanya Kumar
 email: chaithanyakumar.ds@gmail.com
 description: Blogs on data science, machine learning, visualization, MLOps
 url: https://sck22.github.io # the base hostname & protocol for your site
-baseurl: "/sck-blogs/" # the subpath of your site, e.g. /blog
+baseurl: "/sck-blogs" # the subpath of your site, e.g. /blog
 github_username: sck22
 
 blog_name: SCK's Blog  # your blog must have a name for it to show up in the nav bar
